@@ -1,4 +1,4 @@
-﻿import { createApp } from "./routes.ts";
+﻿import { createApp } from "./routes_greet.ts";
 
 const port = 8080;
 const app = createApp();
